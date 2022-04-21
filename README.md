@@ -12,4 +12,4 @@ Horiseon needed some help updating their website to meet accessibility standards
 
 The following image demonstrates the updated accessibility:
 
-!(./assets/Screenshot.png)
+![Screenshot](./assets/images/Screenshot.png)
